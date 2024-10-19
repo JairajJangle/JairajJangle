@@ -1,5 +1,5 @@
 ## Hi there 👋
-Call me JJ — Jack of All Trades, Master of a Select Few | Computer Vision, Machine Learning, and AI Enthusiast.
+Call me JJ — Jack of All Trades, Master of Many | Computer Vision, Machine Learning, and AI Enthusiast.
 
 - 🔭 Currently working on LLM, Langchain, Object Detection, and React Native, to name a few 😅.
 - 🌱 Deep diving into Langchain and LLM fine-tuning.
