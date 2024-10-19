@@ -6,7 +6,7 @@ Call me JJ — Jack of All Trades, Master of a Select Few | Computer Vision, Mac
 - 👯 Open to collaborating on exciting Computer Vision projects.
 - 💬 Ask me about OpenCV, Machine Learning, Transfer Learning, YOLO, and React Native.
 - 📫 How to reach me: reachout.jairaj.jangle@gmail.com.
-- ⚡ Fun facts: I’m fascinated by astrophysics, play the bass guitar, and enjoy developing game mods in my free time.
+- ⚡ Fun facts: I’m fascinated by astrophysics, play bass as an amateur, and enjoy developing game mods in my free time.
 - 🚀 More fun facts: I have two patents granted and am currently working on my third one.
 
 ## 🛠️ Technologies & Tools
