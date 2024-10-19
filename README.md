@@ -31,6 +31,7 @@ Call me JJ — Jack of All Trades, Master of a Select Few | Computer Vision, Mac
 ![Protocol Buffers](https://img.shields.io/badge/Protocol%20Buffers-336691?logo=google&logoColor=white&style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white&style=for-the-badge)
 
+## 📊 GitHub Stats
 <div align="center">
 
   <table style="border: none;">
