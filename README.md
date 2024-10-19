@@ -6,7 +6,8 @@ Call me JJ — Jack of All Trades, Master of a Select Few | Computer Vision, Mac
 - 👯 Open to collaborating on exciting Computer Vision projects.
 - 💬 Ask me about OpenCV, Machine Learning, Transfer Learning, YOLO, and React Native.
 - 📫 How to reach me: reachout.jairaj.jangle@gmail.com.
-- ⚡ Fun fact: I’m fascinated by astrophysics, play the bass guitar, and enjoy developing game mods in my free time.
+- ⚡ Fun facts: I’m fascinated by astrophysics, play the bass guitar, and enjoy developing game mods in my free time.
+- 🚀 More fun facts: I have two patents granted and am currently working on my third one.
 
 ## 🛠️ Technologies & Tools
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
@@ -30,9 +31,25 @@ Call me JJ — Jack of All Trades, Master of a Select Few | Computer Vision, Mac
 ![Protocol Buffers](https://img.shields.io/badge/Protocol%20Buffers-336691?logo=google&logoColor=white&style=for-the-badge)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white&style=for-the-badge)
 
-![JairajJangle's Stats](https://github-readme-stats.vercel.app/api?username=JairajJangle&theme=highcontrast&show_icons=true&hide_border=true&count_private=true) 
-![JairajJangle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JairajJangle&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
-![JairajJangle's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JairajJangle&theme=highcontrast&hide_border=true)
+<div align="center">
+
+  <table style="border: none;">
+    <tr>
+      <td>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=JairajJangle&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" />
+      </td>
+      <td>
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairajJangle&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JairajJangle&theme=highcontrast&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 <!--
 **JairajJangle/JairajJangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
