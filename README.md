@@ -35,8 +35,6 @@ Call me JJ — Jack of All Trades, Master of Many | Computer Vision, Machine Lea
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![Protocol Buffers](https://img.shields.io/badge/Protocol%20Buffers-336691?logo=google&logoColor=white&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
-![Codeium](https://img.shields.io/badge/Codeium-5B37F2?logo=codeium&logoColor=white&style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white&style=for-the-badge)
 
 ## 📊 GitHub Stats
 <div align="center">
