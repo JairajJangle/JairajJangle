@@ -3,7 +3,7 @@ Call me JJ — Jack of All Trades, Master of Many | Computer Vision, Machine Lea
 
 - 🔭 Currently working on LLM, Object Detection, and React Native, to name a few 😅.
 - 🌱 Deep diving into LLM fine-tuning.
-- 👯 Open to collaborating on exciting Computer Vision projects.
+- 🤝 Open to collaborating on exciting Computer Vision projects.
 - 💬 Ask me about OpenCV, Machine Learning, Transfer Learning, YOLO, and React Native.
 - 📫 How to reach me: reachout.jairaj.jangle@gmail.com.
 - ⚡ Fun facts: I’m fascinated by astrophysics, play bass guitar as an amateur, and enjoy developing game mods in my free time.
