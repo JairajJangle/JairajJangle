@@ -16,6 +16,7 @@ Call me JJ — Jack of All Trades, Master of Many | Computer Vision, Machine Lea
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![WandB](https://img.shields.io/badge/WandB-FFBE00?logo=weightsandbiases&logoColor=black&style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?logo=huggingface&logoColor=black&style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
