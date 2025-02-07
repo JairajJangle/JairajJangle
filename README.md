@@ -52,7 +52,7 @@ Call me JJ — Jack of All Trades, Master of Many | Computer Vision, Machine Lea
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JairajJangle&theme=highcontrast&hide_border=true" width="100%" />
+        <img src="https://streak-stats.demolab.com?user=JairajJangle&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
   </table>
