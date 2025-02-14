@@ -39,7 +39,7 @@ Call me JJ — Jack of All Trades, Master of Many | Computer Vision, Machine Lea
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
 
 ---
-## Some more stuff...
+## Some More Stuff...
 
 <details>
   <summary>🎯 My Specializations</summary>
