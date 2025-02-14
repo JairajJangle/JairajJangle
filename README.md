@@ -69,19 +69,6 @@ Call me JJ — Jack of All Trades, Master of Many | Computer Vision, Machine Lea
 </details>
 
 <details>
-  <summary>🏆 Awards</summary>
-
-  - 🥈 1st Runner up at ASUS Tinkerthon 18  
-  - 🔥 6th at ABU ROBOCON '18 Nationals
-  - 🔥 7th at ABU ROBOCON '17 Nationals
-  - 🏅 1st Winner of PSP-IP INNOVATION AWARD
-  - 🏅 1st in Projex Competition
-  - 🔥 Finalist in Schaeffler Open Inspiration Competition
-  - 🏅 1st in Indian Engineering Project Competition
-
-</details>
-
-<details>
   <summary>🔬 Patents</summary>
   
   - 📜 **Local Positioning, monitoring, navigation, and path planning using computer vision** (IN 201821002647)  
