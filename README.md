@@ -38,6 +38,58 @@ Call me JJ — Jack of All Trades, Master of Many | Computer Vision, Machine Lea
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
 
+---
+## Some more stuff...
+
+<details>
+  <summary>🎯 My Specializations</summary>
+  
+  - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/8NVQWDQ8S6FE)
+  - [Stanford University - Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BVDLN4TG8AFT)
+  - [Generative AI for Software Development Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/0Y8F2FM1GCT4)
+  - [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GR3R679MPYXZ)
+
+</details>
+
+<details>
+  <summary>🎓 Some Of My Highlighted Certifications</summary>
+  
+  - [AI-Powered Software and System Design](https://www.coursera.org/account/accomplishments/certificate/YIHJL1CW4L7P)
+  - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/262SEH7P3TMY)
+  - [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/2WVVKAPUKXVH)
+  - [Google - Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/KNPQFS0U2PMW)
+  - [Google - Project Initiation: Starting a Successful Project](https://www.coursera.org/account/accomplishments/certificate/6SU2Q6ETR8N6)
+  - [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/KRMJPFAKPBJY)
+  - [Meta - React Native](https://www.coursera.org/account/accomplishments/certificate/EUD27B2GFAZQ)
+  - [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/WMEJNLJK3KVW)
+  - [Stanford University - Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/GK66M7ANVKMZ)
+  - [Stanford University - Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/D3M8SU9NHF4B)
+  - [The Linux Foundation - Introduction to Protocol Buffers (LFS145)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/24b39e25-95d2-4a4c-926b-d23f55214861-jairaj-jangle-bf5be24f-508b-4a45-9e68-2a005305ab89-certificate.pdf)
+
+</details>
+
+<details>
+  <summary>🏆 Awards</summary>
+
+  - 🥈 1st Runner up at ASUS Tinkerthon 18  
+  - 🔥 6th at ABU ROBOCON '18 Nationals
+  - 🔥 7th at ABU ROBOCON '17 Nationals
+  - 🏅 1st Winner of PSP-IP INNOVATION AWARD
+  - 🏅 1st in Projex Competition
+  - 🔥 Finalist in Schaeffler Open Inspiration Competition
+  - 🏅 1st in Indian Engineering Project Competition
+
+</details>
+
+<details>
+  <summary>🔬 Patents</summary>
+  
+  - 📜 **Local Positioning, monitoring, navigation, and path planning using computer vision** (IN 201821002647)  
+  - 📜 **Hybrid electrical and electronic connector** (IN 201921015421)  
+  - 📜 **A Wearable Human-Computer Interface Device** (IN 202421083946)  
+
+</details>
+
 ## 📊 GitHub Stats
 <div align="center">
 
