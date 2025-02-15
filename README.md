@@ -53,17 +53,17 @@ Call me JJ — Jack of All Trades, Master of Many | Computer Vision, Machine Lea
 
 <details>
   <summary>🎓 Some Of My Highlighted Certifications</summary>
-  
-  - [AI-Powered Software and System Design](https://www.coursera.org/account/accomplishments/certificate/YIHJL1CW4L7P)
-  - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/262SEH7P3TMY)
-  - [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/2WVVKAPUKXVH)
+
+  - [Stanford University - Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/GK66M7ANVKMZ)
+  - [Stanford University - Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/D3M8SU9NHF4B)
   - [Google - Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/KNPQFS0U2PMW)
   - [Google - Project Initiation: Starting a Successful Project](https://www.coursera.org/account/accomplishments/certificate/6SU2Q6ETR8N6)
+  - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/262SEH7P3TMY)
+  - [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/2WVVKAPUKXVH)
+  - [AI-Powered Software and System Design](https://www.coursera.org/account/accomplishments/certificate/YIHJL1CW4L7P)
   - [Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/certificate/KRMJPFAKPBJY)
   - [Meta - React Native](https://www.coursera.org/account/accomplishments/certificate/EUD27B2GFAZQ)
   - [Natural Language Processing in TensorFlow](https://www.coursera.org/account/accomplishments/certificate/WMEJNLJK3KVW)
-  - [Stanford University - Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/certificate/GK66M7ANVKMZ)
-  - [Stanford University - Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/certificate/D3M8SU9NHF4B)
   - [The Linux Foundation - Introduction to Protocol Buffers (LFS145)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/24b39e25-95d2-4a4c-926b-d23f55214861-jairaj-jangle-bf5be24f-508b-4a45-9e68-2a005305ab89-certificate.pdf)
 
 </details>
