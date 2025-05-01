@@ -1,7 +1,7 @@
 ## Hi there 👋
-Call me JJ — Jack of All Trades, Master of Many | Computer Vision, Machine Learning, and AI Enthusiast.
+Call me JJ - Jack of All Trades, Master of Many | Computer Vision, Machine Learning, and AI Enthusiast.
 
-- 🔭 Currently working on LLM, Object Detection, and React Native, to name a few 😅.
+- 🔭 Currently working with LLM agents, Object Detection, and React Native, to name a few 😅.
 - 🌱 Deep diving into LLM fine-tuning.
 - 🤝 Open to collaborating on exciting Computer Vision projects.
 - 💬 Ask me about OpenCV, Machine Learning, Transfer Learning, YOLO, and React Native.
@@ -97,18 +97,3 @@ Call me JJ — Jack of All Trades, Master of Many | Computer Vision, Machine Lea
   </table>
 
 </div>
-
-<!--
-**JairajJangle/JairajJangle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
