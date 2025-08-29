@@ -41,7 +41,7 @@ Call me JJ | Jack of All Trades, Master of Many | Computer Vision, Machine Learn
 ---
 ## Some More Stuff...
 
-## 🎯 My Specializations
+🎯 My Specializations
 
 <table>
   <tr>
