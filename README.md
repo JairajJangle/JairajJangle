@@ -41,15 +41,50 @@ Call me JJ | Jack of All Trades, Master of Many | Computer Vision, Machine Learn
 ---
 ## Some More Stuff...
 
-<details>
-  <summary>🎯 My Specializations</summary>
-  
-  - [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/8NVQWDQ8S6FE)
-  - [Stanford University - Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/BVDLN4TG8AFT)
-  - [Generative AI for Software Development Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/0Y8F2FM1GCT4)
-  - [DeepLearning.AI TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GR3R679MPYXZ)
+## 🎯 My Specializations
 
-</details>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/8NVQWDQ8S6FE">
+        <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~8NVQWDQ8S6FE/CERTIFICATE_LANDING_PAGE~8NVQWDQ8S6FE.jpeg" alt="Deep Learning Specialization" width="300px"/>
+        <br/>
+        <strong>Deep Learning Specialization</strong>
+      </a>
+      <br/>
+      <em>DeepLearning.AI</em>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/BVDLN4TG8AFT">
+        <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~BVDLN4TG8AFT/CERTIFICATE_LANDING_PAGE~BVDLN4TG8AFT.jpeg" alt="Stanford ML Specialization" width="300px"/>
+        <br/>
+        <strong>Stanford University - Machine Learning Specialization</strong>
+      </a>
+      <br/>
+      <em>Stanford University</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/GR3R679MPYXZ">
+        <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GR3R679MPYXZ/CERTIFICATE_LANDING_PAGE~GR3R679MPYXZ.jpeg" alt="TensorFlow Developer Specialization" width="300px"/>
+        <br/>
+        <strong>DeepLearning.AI TensorFlow Developer Specialization</strong>
+      </a>
+      <br/>
+      <em>DeepLearning.AI</em>
+    </td>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/0Y8F2FM1GCT4">
+        <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~0Y8F2FM1GCT4/CERTIFICATE_LANDING_PAGE~0Y8F2FM1GCT4.jpeg" alt="Generative AI Specialization" width="300px"/>
+        <br/>
+        <strong>Generative AI for Software Development Specialization</strong>
+      </a>
+      <br/>
+      <em>DeepLearning.AI</em>
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary>🎓 Some Of My Highlighted Certifications</summary>
@@ -68,14 +103,38 @@ Call me JJ | Jack of All Trades, Master of Many | Computer Vision, Machine Learn
 
 </details>
 
-<details>
-  <summary>🔬 Patents</summary>
-  
-  - 📜 **Local Positioning, monitoring, navigation, and path planning using computer vision** (IN 201821002647)  
-  - 📜 **Hybrid electrical and electronic connector** (IN 201921015421)  
-  - 📜 **A Wearable Human-Computer Interface Device** (IN 202421083946)  
-
-</details>
+🔬 Patents
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/patent_201821002647.jpg" alt="Local Positioning Patent Certificate" width="200"/>
+        <br/>
+        <br/>
+        <strong>Local Positioning, monitoring, <br/>navigation, and path planning using computer vision</strong>
+        <br/>
+        <em>IN 201821002647</em>
+      </td>
+      <td align="center">
+        <img src="assets/patent_201921015421.jpg" alt="Hybrid Connector Patent Certificate" width="200"/>
+        <br/>
+        <br/>
+        <strong>Hybrid electrical and electronic connector</strong>
+        <br/>
+        <br/>
+        <em>IN 201921015421</em>
+      </td>
+      <td align="center" colspan="2">
+        <img src="assets/incoming_patent_202421083946.jpg" alt="Wearable HCI Patent Certificate" width="200"/>
+        <br/>
+        <br/>
+        <strong>Wearable Human-Computer Interface Device <br/>(Applied)</strong>
+        <br/>
+        <em>IN 202421083946</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📊 GitHub Stats
 <div align="center">
