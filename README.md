@@ -128,7 +128,7 @@ Call me JJ | Jack of All Trades, Master of Many | Computer Vision, Machine Learn
         <img src="assets/incoming_patent_202421083946.jpg" alt="Wearable HCI Patent Certificate" width="200"/>
         <br/>
         <br/>
-        <strong>Wearable Human-Computer Interface Device <br/>(Applied)</strong>
+        <strong>Wearable Human-Computer Interface Device <br/>(Awaiting Grant)</strong>
         <br/>
         <em>IN 202421083946</em>
       </td>
