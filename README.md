@@ -151,15 +151,15 @@ Call me JJ | Jack of All Trades, Master of Many | Computer Vision, Machine Learn
   <table style="border: none;">
     <tr>
       <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=JairajJangle&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" />
+        <img align="left" src="https://github-readme-stats-three-rho-57.vercel.app/api?username=JairajJangle&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&v=2" />
       </td>
       <td>
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairajJangle&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" />
+        <img align="right" src="https://github-readme-stats-three-rho-57.vercel.app/api/top-langs/?username=JairajJangle&theme=highcontrast&show_icons=true&hide_border=true&layout=compact&v=2" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=JairajJangle&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="100%" />
+        <img src="https://github-readme-streak-stats-jj2.vercel.app?user=JairajJangle&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
   </table>
