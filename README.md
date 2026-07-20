@@ -1,7 +1,7 @@
 ## Hi there 👋
 Call me JJ | Jack of All Trades, Master of Many | Computer Vision, Machine Learning, and AI Enthusiast.
 
-- 🔭 Currently working with LLM agents, Object Detection, and React Native, to name a few 😅.
+- 🔭 Currently working with LLM agents, Object Detection, and Flutter, to name a few 😅.
 - 🌱 Deep diving into LLM fine-tuning.
 - 🤝 Open to collaborating on exciting Computer Vision projects.
 - 💬 Ask me about OpenCV, Machine Learning, Transfer Learning, YOLO, and React Native.
